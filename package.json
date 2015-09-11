@@ -1,6 +1,6 @@
 {
   "name": "node-global-paths",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Returns Node global paths.",
   "author": {
     "name": "Athan Reines",
